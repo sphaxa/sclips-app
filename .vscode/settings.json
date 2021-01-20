@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f6a8e1a2-9033-440a-b9b4-0ccee1c0236f/resourceGroups/SClips/providers/Microsoft.Web/sites/sclips-web",
+    "appService.deploySubpath": "."
+}
